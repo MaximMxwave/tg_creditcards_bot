@@ -29,19 +29,19 @@
 
 **Информация о боте**
 
-![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/info.png)
+![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/info.png)
 
 **Стартовое меню**
 
-![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/start_menu.png)
+![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/start.png)
 
-**Пример с ошибкой в JSON**
+**Пример с VISA**
 
-![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/syntax.png)
+![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/visa.png)
 
-**Форматирование JSON**
+**Пример c Mastercard**
 
-![image](https://raw.githubusercontent.com/MaximOlesov/tg_json_bot/refs/heads/main/screenshots/Formatting.png)
+![image](https://github.com/MaximMxwave/tg_creditcards_bot/blob/main/screenshots/mastercard.png)
 
 ---
 
