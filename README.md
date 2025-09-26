@@ -47,7 +47,8 @@
 ## 🛠 Стек технологий
 
 - 🐍 **Python**  
-- 📦 [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)  
+- 📦 [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
+- 🎲 [Faker](https://pypi.org/project/Faker/)
 
 ---
 
@@ -55,11 +56,11 @@
 
 1. **Скачайте проект или клонируйте репозиторий**  
 ``` markdown
-git clone https://github.com/MaximMxwave/tg_json_bot.git
+git clone https://github.com/MaximMxwave/tg_creditcards_bot.git
 ```
 
 ``` markdown
-cd tg_json_bot
+cd tg_creditcards_bot
 ```
 
 2. **Создайте Telegram-бота через [@BotFather](https://t.me/BotFather) и вставьте полученный токен в проект**
@@ -77,13 +78,16 @@ source venv/bin/activate
 ``` markdown
 python3 -m pip install pyTelegramBotAPI
 ```
+``` markdown
+python3 -m pip install Faker
+```
 5. **Запустите проект**
 ``` markdown
-python3 bot.py
+python3 main.py
 ```
 
 ### 🔗 Ссылка на бота
-[t.me/JSON_ValidationBot](https://t.me/JSON_ValidationBot)
+[t.me/Cards_creditBot](https://t.me/Cards_creditBot)
 
 
 **👤 Автор:**
