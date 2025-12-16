@@ -91,7 +91,7 @@ python3 main.py
 [t.me/Cards_creditBot](https://t.me/Cards_creditBot)
 
 
-**👨‍💻 Создатель**
+**👨‍💻 Создатель:**
 
 Максим Олесов ([@Mxwave](https://t.me/Mxwave))
 
